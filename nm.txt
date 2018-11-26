@@ -1,0 +1,39 @@
+注册信息：
+
+阿里云邮箱 （注册小程序使用）
+	z929032345@aliyun.com    
+	z123456+
+	
+微信公众平台
+	z929032345@aliyun.com
+	z123456+
+
+	
+开发使用： 
+
+服务器
+	119.29.236.73
+	ubuntu
+	niumao@2018
+DB
+	119.29.236.73 3306
+	root   
+	niumao@2018
+
+	
+
+	
+	
+	
+	
+	域名  929032345@qq.com   zhang123+
+ 
+Appid  wx891e2288937da72f
+
+appsecret  e87a295bbeb4737f146f3bd4611ad123	
+
+
+
+阿里云  账号 h2010099104@aliyun.com
+
+ 密码 dashidai001
